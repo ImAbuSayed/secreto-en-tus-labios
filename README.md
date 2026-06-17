@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secreto-en-tus-labios/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Secreto en tus labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-en-tus-labios/) |
+| **Get License** | [Request Licensing for Secreto en tus labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-en-tus-labios/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `47f591c1b0760c22f5280602f21e9623fbd1a26462b69de03c3fc7c572e9a78f` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
