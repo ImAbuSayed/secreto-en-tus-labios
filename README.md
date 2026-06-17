@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secreto-en-tus-labios/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Secreto en tus labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-en-tus-labios/) |
+| **Get License** | [License this song: Secreto en tus labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-en-tus-labios/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the secret on your lips, I'm waiting for the taste
+> We're moving through the neon lights, we got no time to waste
+> You pull me closer in the dark, the tension starts to rise
+> I see the midnight fire burning deep inside your eyes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
